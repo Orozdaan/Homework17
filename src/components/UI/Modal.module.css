@@ -1,0 +1,29 @@
+.modal {
+    position: fixed;
+    top: 30vh;
+    left: 25%;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(116, 125, 255);
+    border-radius: 10px;
+    
+}
+.content {
+    padding: 27px;
+}
+.text{
+    color: rgb(248, 248, 248);
+    font-size: 29px;
+    font-family: Roboto;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
